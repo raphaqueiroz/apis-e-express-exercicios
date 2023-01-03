@@ -1,7 +1,7 @@
 # Exercício 3
 Mesmo fluxo que o exercício 2.
 
-## Get Product by name
+## Search Product by name
 - method HTTP (GET)
 - path ("/product/search")
 - query params
