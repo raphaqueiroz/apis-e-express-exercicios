@@ -1,7 +1,7 @@
 # Exercício da tarde - APIs e Express
 
 ATENÇÃO! Não forke nem clone esse repositório. Ele serve apenas como enunciado!<br><br>
-<strong>Você deve criar seu próprio repo pessoal chamado labecommerce-backend. Evite trabalhar na main e crie branches para organizar cada nova implementação ou refatoração. A de hoje por exemplo, pode se chamar typescript-i.</strong>
+<strong>Você deve criar seu próprio repo pessoal chamado labecommerce-backend. Evite trabalhar na main e crie branches para organizar cada nova implementação ou refatoração. A de hoje por exemplo, pode se chamar apis-e-express.</strong>
 ### Comando para criar a branch e já entrar nela
 ```
 git checkout -b apis-e-express
