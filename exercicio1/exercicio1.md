@@ -7,3 +7,4 @@ Configure seu servidor node com express para que ele inicie com o script de star
 ## Crie um endpoint de teste
 - path = "/ping"
 - response = "Pong!"
+- execute o servidor e teste seu endpoint no Postman
