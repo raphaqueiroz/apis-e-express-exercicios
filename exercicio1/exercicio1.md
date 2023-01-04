@@ -5,6 +5,7 @@ Configure seu servidor node com express para que ele inicie com o script de star
 - lembre-se de referenciar o material assíncrono
 
 ## Crie um endpoint de teste
+- method = GET
 - path = "/ping"
 - response = "Pong!"
 - execute o servidor e teste seu endpoint no Postman
