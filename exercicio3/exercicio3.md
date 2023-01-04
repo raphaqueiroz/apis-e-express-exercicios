@@ -1,14 +1,28 @@
 # Exercício 3
 Mesmo fluxo que o exercício 2.
 
-## Search Product by name
-- method HTTP (GET)
-- path ("/product/search")
-- query params
-    - q
+## Create User
+- method HTTP (POST)
+- path ("/users")
+- body
+    - id
+    - email
+    - password
 - response
-    - status 200
-    - array do resultado da busca
+    - status 201
+    - "Cadastro realizado com sucesso"
+
+## Create Product
+- method HTTP (POST)
+- path ("/products")
+- body
+    - id
+    - name
+    - price
+    - category
+- response
+    - status 201
+    - "Produto cadastrado com sucesso"
 
 ## Create Purchase
 - method HTTP (POST)
@@ -21,3 +35,4 @@ Mesmo fluxo que o exercício 2.
 - response
     - status 201
     - "Compra realizada com sucesso"
+
