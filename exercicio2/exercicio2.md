@@ -38,3 +38,12 @@ Por enquanto não se preocupe em validar as entradas, foque no caso de sucesso (
 - response
     - status 201
     - "Produto cadastrado com sucesso"
+
+## Search Product by name
+- method HTTP (GET)
+- path ("/product/search")
+- query params
+    - q
+- response
+    - status 200
+    - array do resultado da busca
