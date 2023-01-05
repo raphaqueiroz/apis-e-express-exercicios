@@ -1,5 +1,5 @@
 # Exercício 3
-Mesmo fluxo que o exercício 2.
+Mesmo fluxo do exercício 2.
 
 ## Create User
 - method HTTP (POST)
